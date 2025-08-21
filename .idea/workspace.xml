@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35da4e29-7cea-4d5e-90bf-3d4acaef89ee" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="30gNBu9XZkLyiVoz2UbyD1IGV10" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AddColours.executor": "Run",
+    "Application.Contains.executor": "Run",
+    "Application.Diamond.executor": "Run",
+    "Application.ExceptionHandling.executor": "Run",
+    "Application.FIbonacci.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Problem.executor": "Run",
+    "Application.Q2.executor": "Run",
+    "Application.Q5.executor": "Run",
+    "Application.Qn1.executor": "Run",
+    "Application.Qn10.executor": "Run",
+    "Application.Qn2.executor": "Run",
+    "Application.Qn3.executor": "Run",
+    "Application.Qn4.executor": "Run",
+    "Application.Qn5.executor": "Run",
+    "Application.Qn6.executor": "Run",
+    "Application.Qn7.executor": "Run",
+    "Application.Qn8.executor": "Run",
+    "Application.Qn9.executor": "Run",
+    "Application.Question1.executor": "Run",
+    "Application.Question2.executor": "Run",
+    "Application.Question3.executor": "Run",
+    "Application.Question4.executor": "Run",
+    "Application.Question5.executor": "Run",
+    "Application.Question6.executor": "Run",
+    "Application.Question7.executor": "Run",
+    "Application.Question9.executor": "Run",
+    "Application.SquareRoot.executor": "Run",
+    "Application.Variable.executor": "Run",
+    "Application.com.zoho.zohograduatestudies.assignment2.part1.Qn1.executor": "Run",
+    "Application.com.zoho.zohograduatestudies.assignment2.part1.Qn4.executor": "Run",
+    "Application.com.zoho.zohograduatestudies.assignment3.question6.Main.executor": "Run",
+    "Application.com.zoho.zohograduatestudies.assignment4.Main.executor": "Run",
+    "Application.com.zoho.zohograduatestudies.assignment4.question7.Main.executor": "Run",
+    "Application.com.zoho.zohograduatestudies.assignment5.Question5.executor": "Run",
+    "Application.com.zoho.zohograduatestudies.assignment5.question3.Main.executor": "Run",
+    "Application.com.zoho.zohograduatestudies.assignment6.Question1.Main.executor": "Run",
+    "Application.com.zoho.zohograduatestudies.assignment6.Question2.Main.executor": "Run",
+    "Application.com.zoho.zohograduatestudies.assignment9.question10.Main.executor": "Debug",
+    "Application.com.zoho.zohograduatestudies.assignment9.question3.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/ZSGSDayAssignment",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.com.zoho.zohograduatestudies.assignment2.part1.Qn4">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zoho.zohograduatestudies.assignment6.Question1.Main" />
+      <module name="ZSGSDayAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zoho.zohograduatestudies.assignment6.Question1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Qn7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zoho.zohograduatestudies.assignment10.question1.Qn7" />
+      <module name="ZSGSDayAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zoho.zohograduatestudies.assignment10.question1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Qn8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zoho.zohograduatestudies.assignment10.question1.Qn8" />
+      <module name="ZSGSDayAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zoho.zohograduatestudies.assignment10.question1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zoho.zohograduatestudies.assignment1.Variable" />
+      <module name="ZSGSDayAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zoho.zohograduatestudies.assignment1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.zoho.zohograduatestudies.assignment2.part1.Qn4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zoho.zohograduatestudies.assignment2.part1.Qn4" />
+      <module name="ZSGSDayAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zoho.zohograduatestudies.assignment2.part1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.zoho.zohograduatestudies.assignment2.part1.Qn4" />
+        <item itemvalue="Application.Variable" />
+        <item itemvalue="Application.Qn8" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Qn7" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35da4e29-7cea-4d5e-90bf-3d4acaef89ee" name="Changes" comment="" />
+      <created>1754045126347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754045126347</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zoho/zohograduatestudies/assignment4/SquareRoot.java</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
