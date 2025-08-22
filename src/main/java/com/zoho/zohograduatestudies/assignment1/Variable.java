@@ -280,7 +280,6 @@ class Main {
         System.out.println(obj instanceof Object);
         System.out.println(obj instanceof Child);
 
-
     }
 }
 
